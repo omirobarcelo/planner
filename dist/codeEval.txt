@@ -1,0 +1,1 @@
+loop1: T,NT,NT,T,NT,NT,NT,NT,NT,T
